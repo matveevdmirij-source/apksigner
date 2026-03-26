@@ -1,0 +1,66 @@
+MIT License
+
+Copyright (c) 2026 APK Signer Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ДОПОЛНИТЕЛЬНЫЕ УСЛОВИЯ:
+
+1. Это программное обеспечение может использоваться для создания подписей
+   для приложений Android при распределении через официальные маркеты приложений.
+
+2. Разработчик не несет ответственность за неправильное использование 
+   инструмента или потерю приватных ключей.
+
+3. Рекомендуется хранить файлы keystore в безопасном месте и создавать
+   резервные копии.
+
+4. При использовании этого ПО вы соглашаетесь с условиями использования
+   Google Play Market и RuStore.
+
+5. Использование должно соответствовать всем местным законам и нормативам.
+
+---
+
+ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ:
+
+ЭТА ПРОГРАММА ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ" БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, 
+ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ.
+
+АВТОР НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ЗА:
+- Потерю приватных ключей
+- Компрометацию ключей безопасности
+- Отказ маркетов при загрузке
+- Любой вред от неправильного использования
+- Нарушение прав третьих лиц
+
+ПОЛЬЗОВАТЕЛЬ ИСПОЛЬЗУЕТ ЭТО ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ НА СОБСТВЕННЫЙ РИСК.
+
+---
+
+История версий:
+
+v1.0 - Март 2026
+- Первая публичная версия
+- Поддержка формирования скриптов для Play Market и RuStore
+- Графический и командно-строчный интерфейсы
+- Автоматическое создание keystore
+- Экспорт сертификатов в PEM формат

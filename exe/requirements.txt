@@ -1,0 +1,24 @@
+# APK Signer для Play Market и RuStore
+# Зависимости для запуска приложения
+
+# Стандартные модули Python (встроены):
+# - tkinter (GUI)
+# - subprocess (выполнение команд)
+# - json (работа с JSON)
+# - zipfile (работа с ZIP архивами)
+# - xml.etree (парсинг XML)
+# - hashlib (хеширование)
+# - datetime (работа с датами)
+# - base64 (кодирование base64)
+
+# Дополнительные требования:
+# 1. Java Development Kit (JDK) - для keytool и jarsigner
+#    Скачать: https://www.oracle.com/java/technologies/downloads/
+#    Или: https://adoptopenjdk.net/
+# 
+# 2. Android SDK Build Tools - для apksigner (опционально)
+#    Установка: https://developer.android.com/studio/command-line/sdkmanager
+#
+# 3. OpenSSL - для альтернативного способа генерации ключей
+#    Windows: https://slproweb.com/products/Win32OpenSSL.html
+#    Или установить через: choco install openssl
